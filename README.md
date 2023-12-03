@@ -1,6 +1,14 @@
 # Fashion Fusion
 
+Unbeknownst to us, human perception heavily relies on appearance. Research published in the British Journal of Psychology found a bias influencing our judgments of someone's personality based on overall impressions. It can be concluded that appearance is crucial to us, making fashion a basic necessity and propelling the fashion industry's rapid growth.
+
+The fashion industry has become a significantly growing sector, contributing a substantial $3 trillion and accounting for 2% of the world's GDP. However, the economic growth is deemed to overlook the adverse environmental impacts, according to the United Nations. The fashion industry is responsible for 8-10% of carbon dioxide emissions and contributes to 35% of microplastic waste. The United Nations emphasizes the importance of achieving Sustainable Development Goals (SDGs) in the fashion industry. To meet these goals, innovation is needed, and machine learning holds the potential to address these issues. Machine learning can optimize the excessive use of clothing, tackling overconsumption, excessive production, and minimizing textile waste.
+
 ## Project Overview
+
+Fashion Fusion introduces our latest innovation by harnessing machine learning technology. This web platform empowers individuals to optimize their daily appearance. Through the analysis of users' clothing collections, Fashion Fusion recommends outfits based on clothing types and colors, adapting to changing fashion trends over time.
+
+Beyond enhancing appearance, Fashion Fusion is committed to reducing clothing waste. The platform encourages users to make smarter clothing choices by optimizing existing wardrobe options to minimize overconsumption. With Fashion Fusion, users can express their unique style while maintaining a focus on environmental sustainability."
 
 Over 8,003 images of 28 different classes.
 
